@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aerin Patel</h1>
 <h3 align="center">Student at Indian Institute of Information Technology, Surat</h3>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"><img src="https://user-images.githubusercontent.com/70807684/155598813-e68ec3a3-3c8a-4326-9fc3-899c6fd3d2cf.gif" alt="MasterHead" style="max-width: 100%;" align=""></a></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aerin2805" alt="aerin2805" /></a> </p>
 
 - 🔭 I’m currently working on **Backend development**
 
